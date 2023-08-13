@@ -16,30 +16,35 @@
 
 ## 🛠 Tech Stack
 
-![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-323330?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-323330?style=flat&logo=css3&logoColor=blue)&nbsp;
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-323330?style=flat&logo=typescript)&nbsp;
-![Node](https://img.shields.io/badge/Node-323330?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/Python-323330?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-323330?style=flat&logo=openjdk)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-323330?style=flat&logo=php)&nbsp;
-![C](https://img.shields.io/badge/C-323330?style=flat&logo=c&logoColor=00599C)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-323330?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
-![Mysql](https://img.shields.io/badge/Mysql-323330?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=flat&logo=mongodb)&nbsp;
-![Sass](https://img.shields.io/badge/SASS-323330?style=flat&logo=sass)&nbsp;
-![Styled-Components](https://img.shields.io/badge/Styled--Components-323330?style=flat&logo=styled-components)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-323330?style=flat&logo=bootstrap)&nbsp;
-![Vue](https://img.shields.io/badge/Vue-323330?style=flat&logo=vue.js)&nbsp;
-![Vuetify](https://img.shields.io/badge/Vuetify-323330?style=flat&logo=Vuetify&logoColor=4FC08D)&nbsp;
-![React](https://img.shields.io/badge/React-323330?style=flat&logo=react)&nbsp;
-![React_Native](https://img.shields.io/badge/React_Native-323330?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-323330?style=flat&logo=angular&logoColor=DD0031)&nbsp;
-![Express](https://img.shields.io/badge/Express-323330?style=flat&logo=Express)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=flat&logo=sequelize)&nbsp;
-![JSON-Web-Tokens](https://img.shields.io/badge/json_web_tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)&nbsp;
+![HTML](https://img.shields.io/badge/Code-HTML-323330?style=flat&logo=html5)&nbsp;
+![Javascript](https://img.shields.io/badge/Code-Javascript-323330?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Code-Typescript-323330?style=flat&logo=typescript)&nbsp;
+![Node](https://img.shields.io/badge/Code-Node-323330?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/Code-Python-323330?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Code-Java-323330?style=flat&logo=openjdk)&nbsp;
+![PHP](https://img.shields.io/badge/Code-PHP-323330?style=flat&logo=php)&nbsp;
+![C](https://img.shields.io/badge/Code-C-323330?style=flat&logo=c&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/Code-C%2B%2B-323330?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![Vue](https://img.shields.io/badge/Code-Vue-323330?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/Code-React-323330?style=flat&logo=react)&nbsp;
+![React_Native](https://img.shields.io/badge/Code-React_Native-323330?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/Code-Angular-323330?style=flat&logo=angular&logoColor=DD0031)&nbsp;
+![Express](https://img.shields.io/badge/Code-Express-323330?style=flat&logo=Express)&nbsp;
+![Mysql](https://img.shields.io/badge/DB-Mysql-323330?style=flat&logo=mysql)&nbsp;
+![MariaDB](https://img.shields.io/badge/DB-MariaDB-323330?style=flat&logo=mariadb)&nbsp;
+![MongoDB](https://img.shields.io/badge/DB-MongoDB-323330?style=flat&logo=mongodb)&nbsp;
+![CSS](https://img.shields.io/badge/Style-CSS-323330?style=flat&logo=css3&logoColor=blue)&nbsp;
+![Sass](https://img.shields.io/badge/Style-SASS-323330?style=flat&logo=sass)&nbsp;
+![Styled-Components](https://img.shields.io/badge/Style-Styled--Components-323330?style=flat&logo=styled-components)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Toolkit-Bootstrap-323330?style=flat&logo=bootstrap)&nbsp;
+![Vuetify](https://img.shields.io/badge/Toolkit-Vuetify-323330?style=flat&logo=Vuetify&logoColor=4FC08D)&nbsp;
+![Sequelize](https://img.shields.io/badge/ORM-Sequelize-323330?style=flat&logo=sequelize)&nbsp;
+![JSON-Web-Tokens](https://img.shields.io/badge/Lib-json_web_tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)&nbsp;
+![Git](https://img.shields.io/badge/Tool-Git-323330?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/Tool-VS_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
+![Postman](https://img.shields.io/badge/Tool-Postman-323330?style=flat&logo=postman)&nbsp;
+![Insomnia](https://img.shields.io/badge/Tool-Insomnia-323330?style=flat&logo=insomnia&logoColor=4000bf)&nbsp;
+![Docker](https://img.shields.io/badge/CI-Docker-323330?style=flat&logo=docker)
 
 ## ⚙️ Github Analytics
 
@@ -60,6 +65,6 @@
 
 💬 Feel free to shoot any question about my field where you think I could lend a helping hand!
 
-📫 Feel free to reach out to me on LinkedIn ([in/luan-pessoa](https://www.linkedin.com/in/luan-pessoa/)) or even drop me an email [devluan.pessoa@gmail.com](mailto:devluan.pessoa@gmail.com) anytime!
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/luan-pessoa/) or even drop me an [email](mailto:devluan.pessoa@gmail.com) anytime!
 
 🏋️ In my free time, I like to train and stay active.
