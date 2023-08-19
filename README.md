@@ -48,9 +48,11 @@
 
 ## ⚙️ Github Analytics
 
-[![Lunpessoa's GitHub](https://github-readme-stats.vercel.app/api?username=lunpessoa&show_icons=true&theme=dracula)](https://github.com/lunpessoa/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunpessoa&layout=compact&theme=dracula)](https://github.com/lunpessoa/github-readme-stats)
+<div>
+  <a href="https://github.com/lunpessoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunpessoa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 🔍 A little bit more
 🎓 Studying Information Systems at Eniac.
